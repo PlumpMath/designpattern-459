@@ -1,4 +1,4 @@
-package com.arvato.designpattern.creationalpattern.abstractfactory.concreteproduct;
+package com.arvato.designpattern.creationalpattern.abstractfactory.abstractporduct;
 
 /**
  * 

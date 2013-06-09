@@ -1,7 +1,7 @@
 package com.arvato.designpattern.creationalpattern.abstractfactory.abstractfactory;
 
-import com.arvato.designpattern.creationalpattern.abstractfactory.concreteproduct.Cpu;
-import com.arvato.designpattern.creationalpattern.abstractfactory.concreteproduct.Gpu;
+import com.arvato.designpattern.creationalpattern.abstractfactory.abstractporduct.Cpu;
+import com.arvato.designpattern.creationalpattern.abstractfactory.abstractporduct.Gpu;
 
 /**
  * 
